@@ -1,0 +1,22 @@
+.username {
+    position: fixed;
+    color: black;
+}
+
+.password {
+    position: fixed;
+    color: black;
+}
+
+form {
+
+    color: white;
+    background-color: black;
+    margin-top: 10px;
+    text-align: center
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
